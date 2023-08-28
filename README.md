@@ -1,5 +1,5 @@
 # WeRateDogs (@dog_rates) - Tweet archive Exploration
-## by HAMZAT ABDULRAHMAN
+## by ABDULRAHMAN HAMZAT
 
 ___
 ## Getting Started: Software Requirements
